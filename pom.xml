@@ -19,7 +19,6 @@
         <module>promotion</module>
         <module>message</module>
         <module>shoppingCart</module>
-        <module>cacheManager</module>
         <module>monitoring</module>
         <module>user</module>
         <module>inventory</module>
