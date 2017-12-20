@@ -24,6 +24,7 @@
         <module>inventory</module>
         <module>storage</module>
         <module>routing</module>
+        <module>logger</module>
     </modules>
 
 
