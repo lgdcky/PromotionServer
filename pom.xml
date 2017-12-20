@@ -10,7 +10,21 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>configuration</module>
+        <module>register</module>
+        <module>commodity</module>
+        <module>search</module>
+        <module>order</module>
+        <module>member</module>
+        <module>decoration</module>
         <module>promotion</module>
+        <module>message</module>
+        <module>shoppingCart</module>
+        <module>monitoring</module>
+        <module>user</module>
+        <module>inventory</module>
+        <module>storage</module>
+        <module>routing</module>
+        <module>logger</module>
     </modules>
 
 
