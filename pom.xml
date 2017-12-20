@@ -23,6 +23,7 @@
         <module>monitoring</module>
         <module>user</module>
         <module>inventory</module>
+        <module>storage</module>
     </modules>
 
 
